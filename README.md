@@ -18,4 +18,4 @@ php artisan serve
 
 php artisan storage:link
 
-use admin@gmail.com as email and admin as password for login and redirect to admin dashboard
+use 'admin@gmail.com' as email and 'admin' as password for login and redirect to admin dashboard
